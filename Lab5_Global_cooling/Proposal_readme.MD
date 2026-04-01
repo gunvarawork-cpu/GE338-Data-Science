@@ -5,15 +5,18 @@
 **- Dataset ที่ใช้**
 - WorldClim Temperature
 - Sentinel-2 imagery
+
 **- Variables / Index**
 - Temperature
 - NDVI
 - NDWI
+
 *-Resolution ที่จะใช้*
 - ประมาณ 500 เมตร เนื่องจากข้อมูล NDVI จาก MODIS MOD13Q1 มีความละเอียดเชิงพื้นที่ประมาณ 250-500 เมตร ซึ่งเหมาะสำหรับการวิเคราะห์ในระดับประเทศ
 #### 2) พื้นที่ใดของประเทศไทยจะยังคงมีความอุดมสมบูรณ์ของพืชพรรณสูง ภายใต้สถานการณ์ที่อุณหภูมิลดลง 5°C
 **- Dataset ที่ใช้**
 - Sentinel-2 Surface Reflectance
+
 **-Variables / Index**
 - NDVI
 *-Resolution ที่จะใช้*
